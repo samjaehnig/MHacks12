@@ -26,6 +26,7 @@
 		CFFFEF49235296AE00439F37 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFFFEF48235296AE00439F37 /* TableViewCell.swift */; };
 		CFFFEF4D2352983100439F37 /* ItemList.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFFFEF4C2352983100439F37 /* ItemList.swift */; };
 		CFFFEF4F2352990C00439F37 /* ListScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFFFEF4E2352990C00439F37 /* ListScreenViewController.swift */; };
+		CFFFEF512352F98100439F37 /* ViewControllerUI + Validation.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFFFEF502352F98000439F37 /* ViewControllerUI + Validation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,6 +77,7 @@
 		CFFFEF48235296AE00439F37 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		CFFFEF4C2352983100439F37 /* ItemList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemList.swift; sourceTree = "<group>"; };
 		CFFFEF4E2352990C00439F37 /* ListScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListScreenViewController.swift; sourceTree = "<group>"; };
+		CFFFEF502352F98000439F37 /* ViewControllerUI + Validation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewControllerUI + Validation.swift"; sourceTree = "<group>"; };
 		F192AA465E2687413084D0EC /* Pods-MHacks19Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MHacks19Tests.release.xcconfig"; path = "Target Support Files/Pods-MHacks19Tests/Pods-MHacks19Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -142,13 +144,14 @@
 		CFE66A1C235220E3007D4540 /* MHacks19 */ = {
 			isa = PBXGroup;
 			children = (
-				CFE66A1F235220E3007D4540 /* ViewController.swift */,
 				CFE66A1D235220E3007D4540 /* AppDelegate.swift */,
+				CFE66A1F235220E3007D4540 /* ViewController.swift */,
 				CFFFEF442352642800439F37 /* TableListViewController.swift */,
 				CFFFEF3E2352346900439F37 /* SignupViewController.swift */,
 				CFFFEF4C2352983100439F37 /* ItemList.swift */,
 				CFFFEF402352347D00439F37 /* HomeViewController.swift */,
 				CFFFEF3C2352344D00439F37 /* LoginViewController.swift */,
+				CFFFEF502352F98000439F37 /* ViewControllerUI + Validation.swift */,
 				CFE66A21235220E3007D4540 /* Main.storyboard */,
 				CFFFEF4E2352990C00439F37 /* ListScreenViewController.swift */,
 				CFFFEF48235296AE00439F37 /* TableViewCell.swift */,
@@ -432,6 +435,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CFFFEF512352F98100439F37 /* ViewControllerUI + Validation.swift in Sources */,
 				CFFFEF412352347D00439F37 /* HomeViewController.swift in Sources */,
 				CFFFEF49235296AE00439F37 /* TableViewCell.swift in Sources */,
 				CFFFEF4723527EAD00439F37 /* TableViewController.swift in Sources */,
