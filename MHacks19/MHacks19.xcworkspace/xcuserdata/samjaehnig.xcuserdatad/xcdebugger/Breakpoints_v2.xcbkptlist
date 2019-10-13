@@ -26,13 +26,406 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MHacks19/ListScreenViewController.swift"
-            timestampString = "592642357.19542"
+            timestampString = "592658567.884951"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "SearchItem(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MHacks19/SearchViewController.swift"
+            timestampString = "592651538.144853"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MHacks19.SearchViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MHacks19.SearchViewController"
+                  moduleName = "MHacks19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samjaehnig/Desktop/hackathon/MHacks19/MHacks19/SearchViewController.swift"
+                  timestampString = "592649038.610373"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MHacks19.SearchViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MHacks19.SearchViewController"
+                  moduleName = "MHacks19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samjaehnig/Desktop/hackathon/MHacks19/MHacks19/SearchViewController.swift"
+                  timestampString = "592649038.618975"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "361">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MHacks19.SearchViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MHacks19.SearchViewController&gt;"
+                  moduleName = "MHacks19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samjaehnig/Desktop/hackathon/MHacks19/MHacks19/SearchViewController.swift"
+                  timestampString = "592649038.622085"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MHacks19.SearchViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MHacks19.SearchViewController&gt;"
+                  moduleName = "MHacks19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samjaehnig/Desktop/hackathon/MHacks19/MHacks19/SearchViewController.swift"
+                  timestampString = "592649038.6235861"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "201">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MHacks19.SearchViewController.__deallocating_deinit"
+                  moduleName = "MHacks19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samjaehnig/Desktop/hackathon/MHacks19/MHacks19/SearchViewController.swift"
+                  timestampString = "592649038.62716"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MHacks19/SearchViewController.swift"
+            timestampString = "592651538.144907"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MHacks19/ListScreenViewController.swift"
+            timestampString = "592658567.885288"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "SearchItem(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MHacks19/ListScreenViewController.swift"
+            timestampString = "592658567.885427"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "SearchItem(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MHacks19/ListScreenViewController.swift"
+            timestampString = "592658567.885555"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "GenerateStores(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MHacks19/ListScreenViewController.swift"
+            timestampString = "592658567.885668"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "GenerateStores(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MHacks19/ListScreenViewController.swift"
+            timestampString = "592658567.885767"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "SearchItem(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MHacks19/ListScreenViewController.swift"
+            timestampString = "592658567.8858401"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "SearchItem(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MHacks19/ListScreenViewController.swift"
+            timestampString = "592658567.8858989"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "ListScreenViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MHacks19.ListScreenViewController.databaseHandle.getter : Swift.Optional&lt;Swift.UInt&gt;"
+                  moduleName = "MHacks19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samjaehnig/Desktop/hackathon/MHacks19/MHacks19/ListScreenViewController.swift"
+                  timestampString = "592657199.586887"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MHacks19.ListScreenViewController.databaseHandle.setter : Swift.Optional&lt;Swift.UInt&gt;"
+                  moduleName = "MHacks19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samjaehnig/Desktop/hackathon/MHacks19/MHacks19/ListScreenViewController.swift"
+                  timestampString = "592657199.5882111"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "142">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MHacks19.ListScreenViewController.databaseHandle.modify : Swift.Optional&lt;Swift.UInt&gt;"
+                  moduleName = "MHacks19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samjaehnig/Desktop/hackathon/MHacks19/MHacks19/ListScreenViewController.swift"
+                  timestampString = "592657199.58945"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MHacks19.ListScreenViewController.databaseHandle.modify : Swift.Optional&lt;Swift.UInt&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MHacks19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samjaehnig/Desktop/hackathon/MHacks19/MHacks19/ListScreenViewController.swift"
+                  timestampString = "592657199.590789"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MHacks19.ListScreenViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MHacks19.ListScreenViewController"
+                  moduleName = "MHacks19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samjaehnig/Desktop/hackathon/MHacks19/MHacks19/ListScreenViewController.swift"
+                  timestampString = "592657199.592049"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "701">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MHacks19.ListScreenViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MHacks19.ListScreenViewController&gt;"
+                  moduleName = "MHacks19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samjaehnig/Desktop/hackathon/MHacks19/MHacks19/ListScreenViewController.swift"
+                  timestampString = "592657199.593321"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "615">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MHacks19/ListScreenViewController.swift"
+            timestampString = "592658567.8859529"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MHacks19.ListScreenViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MHacks19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samjaehnig/Desktop/hackathon/MHacks19/MHacks19/ListScreenViewController.swift"
+                  timestampString = "592657199.600352"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "762">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in MHacks19.ListScreenViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MHacks19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samjaehnig/Desktop/hackathon/MHacks19/MHacks19/ListScreenViewController.swift"
+                  timestampString = "592657199.601632"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "178">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MHacks19/ListScreenViewController.swift"
+            timestampString = "592658567.886047"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "33"
             endingLineNumber = "33"
             landmarkName = "SearchItem(_:)"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MHacks19/ListScreenViewController.swift"
+            timestampString = "592658567.886125"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "ListScreenViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

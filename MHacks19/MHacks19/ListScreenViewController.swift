@@ -26,16 +26,23 @@ import FirebaseAuth
 
 class ListScreenViewController: UIViewController {
     var num = 0
+    var itemNames = [String]()
     
     @IBOutlet weak var SearchBar: UITextField!
     
     @IBAction func SearchItem(_ sender: UIButton) {
         let name: String = SearchBar.text!
+        itemNames.append(name)
         var ref: DatabaseReference!
         ref = Database.database().reference()
         let string_name: String = "Name \(num)"
         ref.child("Cart").setValue([string_name: name])
         num = num + 1
+ 
+    }
+
+    @IBAction func GenerateStores(_ sender: UIButton) {
+       
     }
     
     @IBOutlet weak var tableView: UITableView!
@@ -54,10 +61,6 @@ class ListScreenViewController: UIViewController {
         
         super.viewDidLoad()
         
-        //        items = [Item]()
-        
-        
-        
         tableView.delegate = self
         
         tableView.dataSource = self
@@ -67,13 +70,11 @@ class ListScreenViewController: UIViewController {
         databaseHandle = ref?.child("Cart").observe(.childAdded, with:{ (snapshot) in
             
             
-            
             let temp = snapshot.value as? String
             
             if let items = temp {
                 
                 self.items.append(items)
-                
                 
                 
                 self.tableView.reloadData()
